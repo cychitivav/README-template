@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" id="readme-top">
 
 <img src="https://user-images.githubusercontent.com/30636259/167962176-b8172b07-c769-4a7b-1690-db518c59fffa.png" alt="Logo" width="80"/>
 
@@ -22,18 +22,17 @@ An awesome README description!
 <details>
 	<summary>Table of contents</summary>
  
-- [README title](#readme-title)
-  - [About The Project](#about-the-project)
-    - [Built With](#built-with)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Roadmap](#roadmap)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
-  - [Acknowledgments](#acknowledgments)
+ 1. [About The Project](#about-the-project)
+	* [Built with](#built-with)
+ 2. [Getting Started](#getting-started)
+    * [Prerequisites](#prerequisites)
+    * [Installation](#installation)
+1. [Usage](#usage)
+2. [Roadmap](#roadmap)
+3. [Contributing](#contributing)
+4. [license](#license)
+5. [Contact](#contact)
+6. [Acknowledgments](#acknowledgments)
 </details>
 
 
