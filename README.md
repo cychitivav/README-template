@@ -22,7 +22,6 @@ An awesome README description!
 
 [View Demo](https://github.com/cychitivav/README-template) · [Report Bug](https://github.com/cychitivav/README-template/issues) · [Request Feature](https://github.com/cychitivav/README-template/issues)
 
----
 [![Contributors](https://img.shields.io/github/contributors/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/network/members)
 [![Stargazers](https://img.shields.io/github/stars/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/stargazers)
@@ -57,7 +56,10 @@ An awesome README description!
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor `repo_name`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="right">
+
+[:arrow_double_up:back to top](#readme-top)
+</div>
 
 
 
@@ -66,7 +68,10 @@ https://github.com/Ileriayo/markdown-badges -->
 ### Built With
 * [![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](ros.org)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="right">
+
+[:arrow_double_up:back to top](#readme-top)
+</div>
 
 
 
@@ -111,7 +116,10 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 > __Note__: See the [open issues](https://github.com/cychitivav/repo_name/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="right">
+
+[:arrow_double_up:back to top](#readme-top)
+</div>
 
 
 
@@ -129,7 +137,10 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="right">
+
+[:arrow_double_up:back to top](#readme-top)
+</div>
 
 
 
@@ -137,7 +148,10 @@ Don't forget to give the project a star! Thanks again!
 ## :key:License
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="right">
+
+[:arrow_double_up:back to top](#readme-top)
+</div>
 
 
 
@@ -146,7 +160,10 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 * [@cychitivav](https://github.com/cychitivav)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="right">
+
+[:arrow_double_up:back to top](#readme-top)
+</div>
 
 
 
@@ -154,8 +171,15 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 ## :tada:Acknowledgments
 
 * []()
+* Cite[^cite]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<div align="right">
+
+[:arrow_double_up:back to top](#readme-top)
+</div>
+
+[^cite]: [Cite]()
 
 
 
