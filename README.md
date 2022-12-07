@@ -18,9 +18,9 @@ Find and replace the following text with the name of the project:
 # README title
 An awesome README description!
 
-[**Explore the docs »**](https://github.com/cychitivav/README-template/wiki)
+[**Explore the docs »**](https://github.com/cychitivav/repo_name/wiki)
 
-[View Demo](https://github.com/cychitivav/README-template) · [Report Bug](https://github.com/cychitivav/README-template/issues) · [Request Feature](https://github.com/cychitivav/README-template/issues)
+[View Demo](https://github.com/cychitivav/repo_name) · [Report Bug](https://github.com/cychitivav/repo_name/issues) · [Request Feature](https://github.com/cychitivav/repo_name/issues)
 
 [![Contributors](https://img.shields.io/github/contributors/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/network/members)
