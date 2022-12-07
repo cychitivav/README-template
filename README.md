@@ -1,7 +1,20 @@
+<!--
+MARKDOWN IMAGES & BADGES
+* https://www.markdownguide.org/basic-syntax/#reference-style-links
+* https://github.com/Ileriayo/markdown-badges
+
+EMOJIS
+* https://gist.github.com/rxaviers/7360908
+  
+Find and replace the following text with the name of the project:
+	repo_name
+-->
+
 <div align="center" id="readme-top">
 
 <img src="https://user-images.githubusercontent.com/30636259/167962176-b8172b07-c769-4a7b-1690-db518c59fffa.png" alt="Logo" width="80"/>
 
+<!-- omit in toc -->
 # README title
 An awesome README description!
 
@@ -9,62 +22,56 @@ An awesome README description!
 
 [View Demo](https://github.com/cychitivav/README-template) · [Report Bug](https://github.com/cychitivav/README-template/issues) · [Request Feature](https://github.com/cychitivav/README-template/issues)
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+---
+[![Contributors](https://img.shields.io/github/contributors/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/network/members)
+[![Stargazers](https://img.shields.io/github/stars/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/stargazers)
+[![Issues](https://img.shields.io/github/issues/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/issues)
+[![MIT License](https://img.shields.io/github/license/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/blob/main/LICENSE)
+
 
 </div>
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-	<summary>Table of contents</summary>
- 
- 1. [About The Project](#about-the-project)
-	* [Built with](#built-with)
- 2. [Getting Started](#getting-started)
-    * [Prerequisites](#prerequisites)
-    * [Installation](#installation)
-1. [Usage](#usage)
-2. [Roadmap](#roadmap)
-3. [Contributing](#contributing)
-4. [license](#license)
-5. [Contact](#contact)
-6. [Acknowledgments](#acknowledgments)
-</details>
+<!-- omit in toc -->
+## :pencil:Table of contents
+- [:pushpin:About The Project](#pushpinabout-the-project)
+	- [Built With](#built-with)
+- [:checkered\_flag:Getting Started](#checkered_flaggetting-started)
+	- [Prerequisites](#prerequisites)
+	- [Installation](#installation)
+- [:balloon:Usage](#balloonusage)
+- [:roller\_coaster:Roadmap](#roller_coasterroadmap)
+- [:busts\_in\_silhouette:Contributing](#busts_in_silhouettecontributing)
+- [:key:License](#keylicense)
+- [:pencil2:Authors](#pencil2authors)
+- [:tada:Acknowledgments](#tadaacknowledgments)
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## :pushpin:About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://user-images.githubusercontent.com/30635659/169600958-763d1628-b7bb-475c-a8bc-56120d1d3ff9.svg)
+[![Product Name Screen Shot](https://user-images.githubusercontent.com/30635659/169600958-763d1628-b7bb-475c-a8bc-56120d1d3ff9.svg)](https://user-images.githubusercontent.com/30635659/169600958-763d1628-b7bb-475c-a8bc-56120d1d3ff9.svg)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor `repo_name`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
+<!-- BADGES
+https://github.com/Ileriayo/markdown-badges -->
 ### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](ros.org)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## :checkered_flag:Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -72,55 +79,44 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* numpy
+	```sh
+	pip install numpy
+	```
 
 ### Installation
 
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-
+1. Clone the repo
+	```sh
+	git clone https://github.com/cychitivav/repo_name.git
+	```
+2. Next steps
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## :balloon:Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+> __Note__: For more examples, please refer to the* [*Documentation*](https://github.com/cychitivav/repo_name/wiki)
 
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## :roller_coaster:Roadmap
 
 - [ ] Feature 1
 - [ ] Feature 2
-- [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+> __Note__: See the [open issues](https://github.com/cychitivav/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## :busts_in_silhouette:Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -138,73 +134,28 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+## :key:License
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+## :pencil2:Authors
+* [@cychitivav](https://github.com/cychitivav)
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## :tada:Acknowledgments
 
-* []()
-* []()
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!--
-MARKDOWN LINKS & IMAGES
-
-* https://www.markdownguide.org/basic-syntax/#reference-style-links
-* https://github.com/Ileriayo/markdown-badges
-
-Find and replace the following text with the name of the project:
-	README-template
--->
-
-<!-- INFO BADGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/cychitivav/README-template.svg?style=for-the-badge
-[contributors-url]: https://github.com/cychitivav/README-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/cychitivav/README-template.svg?style=for-the-badge
-[forks-url]: https://github.com/cychitivav/README-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/cychitivav/README-template.svg?style=for-the-badge
-[stars-url]: https://github.com/cychitivav/README-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/cychitivav/README-template.svg?style=for-the-badge
-[issues-url]: https://github.com/cychitivav/README-template/issues
-[license-shield]: https://img.shields.io/github/license/cychitivav/README-template.svg?style=for-the-badge
-[license-url]: https://github.com/cychitivav/README-template/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/cychitivav
-[product-screenshot]: images/screenshot.png
-[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[next-url]: https://nextjs.org/
-[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[react-url]: https://reactjs.org/
-[vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[vue-url]: https://vuejs.org/
-[angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[angular-url]: https://angular.io/
-[svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[svelte-url]: https://svelte.dev/
-[laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[laravel-url]: https://laravel.com
-[bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[bootstrap-url]: https://getbootstrap.com
-[jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[jquery-url]: https://jquery.com
