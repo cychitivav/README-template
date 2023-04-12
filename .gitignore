@@ -6,3 +6,6 @@
 *.pyc
 *.py[cod]
 *$py.class
+
+# Test files
+*test*
